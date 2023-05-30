@@ -1,0 +1,23 @@
+const musicalDirection = [
+  { label: "Pop", value: "Pop" },
+  { label: "Rock", value: "Rock" },
+  { label: "Hip Hop", value: "Hip Hop" },
+  { label: "R&B", value: "R&B" },
+  { label: "Country", value: "Country" },
+  { label: "Jazz", value: "Jazz" },
+  { label: "Electronic", value: "Electronic" },
+  { label: "Reggae", value: "Reggae" },
+  { label: "Classical", value: "Classical" },
+  { label: "Blues", value: "Blues" },
+  { label: "Folk", value: "Folk" },
+  { label: "Alternative", value: "Alternative" },
+  { label: "Metal", value: "Metal" },
+  { label: "Latin", value: "Latin" },
+  { label: "Indie", value: "Indie" },
+  { label: "Gospel", value: "Gospel" },
+  { label: "Funk", value: "Funk" },
+  { label: "Soul", value: "Soul" },
+  { label: "Punk", value: "Punk" },
+  { label: "Disco", value: "Disco" },
+];
+export default musicalDirection;
